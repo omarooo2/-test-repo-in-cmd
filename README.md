@@ -1,6 +1,3 @@
 # -test-repo-in-cmd
-<<<<<<< master
+ this is note
 
-## this is note
-=======
->>>>>>> master
